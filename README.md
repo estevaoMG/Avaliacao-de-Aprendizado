@@ -65,11 +65,4 @@ Este projeto é voltado para fins **didáticos**, com o objetivo de consolidar o
 
 ---
 
-## 📎 Links Úteis
-
-- [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/estevaoMG/Avaliacao-de-Aprendizado/blob/main/AvaliacaoDeAprendizado.ipynb)  
-- [Repositório no GitHub](https://github.com/estevaoMG/Avaliacao-de-Aprendizado)
-
----
-
 ✍️ Autor: **Estevão Gouveia**
